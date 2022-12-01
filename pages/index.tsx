@@ -10,6 +10,7 @@ const Home: NextPage = () => {
   const [address, setAddress] = useState('')
 
   const addressSubmittedHandler = (address: string) => {
+    // test git commit
     setAddress(address)
     setBalance(1000)
   }
