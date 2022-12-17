@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-Test commit
+In this application, the client enters a public key and learns the balance of this account and whether it is an executable account. We simply connect to Solana's devnet cluster and read data from the blockchain.
 
 ## Getting Started
 
